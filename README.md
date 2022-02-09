@@ -1,3 +1,3 @@
 # Internship
 ### Examples: 
-Coin Flip: first to get 3 heads in a row wins
+coin.py: first to get 3 heads in a row wins
