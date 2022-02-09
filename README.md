@@ -1,2 +1,2 @@
 # Internship
-## Example: coin flip
+#### Example: coin flip
