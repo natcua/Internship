@@ -20,4 +20,5 @@ async def on_message(message):
 		await message.channel.send('Hello!')
 		
 #insert token (use environment variable)
+#use sidebar for environmental variable
 client.run()
